@@ -134,5 +134,5 @@ dotnet test
 
 ## Author
 
-**Farhan Sohail**
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
+**Muhammad Farhan Sohail**
+[LinkedIn](https://www.linkedin.com/in/muhammad-farhan-sohail-019a37220/)
